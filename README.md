@@ -250,7 +250,7 @@ This backend will support various functionalities required to mimic the core fea
 
 These layered defenses will collectively fortify this Airbnb-clone backend against a wide range of threats, ensuring both reliability and trust for users and hosts.
 
-**CI/CD Pipeline.**
+#### CI/CD Pipeline.
 
 - What They Are:
     - Continuous Integration (CI) and Continuous Delivery/Deployment (CD) pipelines are automated workflows that take every code change through a series of steps—building, testing, and delivering—so that software can be released reliably and quickly.
@@ -260,26 +260,16 @@ These layered defenses will collectively fortify this Airbnb-clone backend again
     
     Automating these stages ensures that every commit is validated and ready for deployment at any time.
 
-**CI/CD Tools:**
+#### CI/CD Tools:
 
     - Jenkins - Open-source, highly extensible via 1,800+ plugins, large community support.
-
     - GitHub Actions - Native GitHub integration, matrix builds, reusable workflows in YAML.
-
     - GitLab CI/CD - Built into GitLab, auto-scaling runners, built-in container registry.
-
     - CircleCI - Fast container-based execution, first-class Docker support, “Orbs” library.
-    
     - Travis CI - Simple YAML config, free for open-source, easy GitHub integration.
-    
     - AWS CodePipeline - Deep integration with AWS services, pay-as-you-go pricing.
-    
     - Azure DevOps - Complete DevOps suite (Repos, Pipelines, Artifacts), strong Microsoft ties.
-    
     - Bitbucket Pipelines - Built into Bitbucket, step caching, Docker support.
-    
     - Drone - Container-native CI, plugin-driven architecture, simple YAML pipelines.
-    
     - TeamCity - Enterprise features, strong .NET support, powerful build chain management.
-    
     - Bamboo - Tight integration with Jira and Bitbucket, built-in deployment projects.
